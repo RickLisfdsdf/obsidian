@@ -10,3 +10,5 @@ Thumbs.db
 
 # Trash
 .trash/
+
+.obsidian/plugins/obsidian-git/data.json
